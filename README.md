@@ -1,10 +1,1 @@
-# ECS
-
-Git important!!
-
-
-- fix-B
-
-
-- feature-C
-# Java300Practice
+#This repository is my code during learning GitHub in Git-pro
